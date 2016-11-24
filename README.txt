@@ -1,4 +1,4 @@
-John Kennedy Assignment 1
+# Running new EC2 instance
 
 In order to run my assignment please copy your .pem key in this folder, once unzipped, in order for my script to run sucessfully.
 
